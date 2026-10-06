@@ -1,0 +1,21 @@
+patient_id,gender,age,city,insurance_type,chronic_condition
+P001,F,34,Pune,Private,None
+P002,M,61,Mumbai,Government,Diabetes
+P003,F,47,Bengaluru,Private,Hypertension
+P004,M,29,Hyderabad,Private,None
+P005,F,72,Delhi,Government,Diabetes
+P006,M,55,Pune,Private,Hypertension
+P007,F,41,Mumbai,Private,None
+P008,M,66,Bengaluru,Government,Heart Disease
+P009,F,58,Delhi,Private,Diabetes
+P010,M,38,Hyderabad,Private,None
+P011,F,63,Pune,Government,Hypertension
+P012,M,49,Mumbai,Private,Diabetes
+P013,F,27,Bengaluru,Private,None
+P014,M,75,Delhi,Government,Heart Disease
+P015,F,52,Hyderabad,Private,Hypertension
+P016,M,44,Pune,Private,None
+P017,F,69,Mumbai,Government,Diabetes
+P018,M,57,Bengaluru,Private,Hypertension
+P019,F,36,Delhi,Private,None
+P020,M,64,Hyderabad,Government,Diabetes
