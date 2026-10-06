@@ -1,0 +1,31 @@
+claim_id,patient_id,claim_date,provider,diagnosis,procedure,claim_amount,claim_status
+C001,P001,2026-01-05,CityCare,Flu,Consultation,1200,Paid
+C002,P002,2026-01-07,MetroHealth,Diabetes,Lab Test,4200,Paid
+C003,P003,2026-01-09,HealthPlus,Hypertension,Consultation,1800,Paid
+C004,P004,2026-01-12,CityCare,Flu,Consultation,1100,Approved
+C005,P005,2026-01-15,MetroHealth,Diabetes,Hospitalization,54000,Paid
+C006,P006,2026-01-18,HealthPlus,Hypertension,Lab Test,3500,Paid
+C007,P007,2026-01-20,CityCare,Flu,Medicine,900,Rejected
+C008,P008,2026-01-22,MetroHealth,Heart Disease,Hospitalization,88000,Paid
+C009,P009,2026-01-25,HealthPlus,Diabetes,Lab Test,3900,Paid
+C010,P010,2026-01-27,CityCare,Flu,Consultation,1250,Paid
+C011,P011,2026-02-02,MetroHealth,Hypertension,Consultation,1600,Paid
+C012,P012,2026-02-04,HealthPlus,Diabetes,Lab Test,4100,Approved
+C013,P013,2026-02-06,CityCare,Flu,Medicine,850,Paid
+C014,P014,2026-02-09,MetroHealth,Heart Disease,Hospitalization,92000,Paid
+C015,P015,2026-02-12,HealthPlus,Hypertension,Consultation,1900,Paid
+C016,P016,2026-02-14,CityCare,Flu,Consultation,1300,Paid
+C017,P017,2026-02-18,MetroHealth,Diabetes,Hospitalization,47000,Rejected
+C018,P018,2026-02-21,HealthPlus,Hypertension,Lab Test,3600,Paid
+C019,P019,2026-02-24,CityCare,Flu,Medicine,950,Paid
+C020,P020,2026-02-27,MetroHealth,Diabetes,Consultation,2100,Paid
+C021,P001,2026-03-03,CityCare,Flu,Consultation,1400,Paid
+C022,P002,2026-03-05,MetroHealth,Diabetes,Lab Test,4300,Paid
+C023,P003,2026-03-07,HealthPlus,Hypertension,Consultation,1750,Paid
+C024,P005,2026-03-10,MetroHealth,Diabetes,Lab Test,4500,Paid
+C025,P008,2026-03-12,MetroHealth,Heart Disease,Consultation,2400,Approved
+C026,P009,2026-03-15,HealthPlus,Diabetes,Lab Test,4000,Paid
+C027,P011,2026-03-18,MetroHealth,Hypertension,Consultation,1700,Paid
+C028,P014,2026-03-20,MetroHealth,Heart Disease,Hospitalization,95000,Paid
+C029,P017,2026-03-23,MetroHealth,Diabetes,Lab Test,4600,Paid
+C030,P020,2026-03-25,MetroHealth,Diabetes,Consultation,2200,Approved
